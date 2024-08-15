@@ -98,7 +98,7 @@ print(f"Your score is: {score}%")
 
 
 
-
+# End of Quiz.
 
 print("")
 print(f"{format_output}---END---{format_reset}")
